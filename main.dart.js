@@ -41030,7 +41030,7 @@ else n.a=new P.S(t,t*9/16)
 return new E.oL(new F.Q0(n),new A.nN(null),null)}}
 F.Q0.prototype={
 $2:function(a,b){var t=null,s=a.br(u.hs).f,r=this.a.a.b,q=u.E,p=H.b([new T.fj(new V.aM(0,0,50,0),new T.h3(C.a_,t,t,L.q0("\u5173\u4e8e",A.jk(t,t,t,t,t,t,t,t,t,t,t,18,t,t,t,t,!0,t,t,t,t,t,t)),t),t)],q)
-return H.b([new E.yD(s.d,new E.pI(C.ze,p,new Z.nw(new D.zf("images/categories-bg.jpg",t),t),b,C.k,50,r,!0,t),t)],q)}}
+return H.b([new E.yD(s.d,new E.pI(C.ze,p,new Z.nw(new D.zf("assets/images/categories-bg.jpg",t),t),b,C.k,50,r,!0,t),t)],q)}}
 F.vX.prototype={}
 D.yu.prototype={
 gys:function(){return null},
